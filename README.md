@@ -1,4 +1,4 @@
-![SimpleAtik v1.0]()
+# SimpleAtik v1.0
 
 ## SimpleAtik is the original CLI script to trigger and control Atik cameras for Faraday Rotation Imaging Diagnostic at MAGPIE - Jack Hare, Dec 2015
 
